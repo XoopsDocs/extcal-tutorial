@@ -1,0 +1,4 @@
+extcal
+======
+
+XOOPS extCal module
