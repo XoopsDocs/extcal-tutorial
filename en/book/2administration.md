@@ -37,7 +37,6 @@ As the first operation after setting up your preferences, you should create Cate
 
 ![](/en/assets/admin010.png)
 
-
 ![](/en/assets/admin010a.png)
 
 ![](/en/assets/admin010b.png)
@@ -48,11 +47,7 @@ As the first operation after setting up your preferences, you should create Cate
 #### Adding Event
 
 ![](/en/assets/event001.png)
-
-
 ![](/en/assets/event002.png)
-
-
 ![](/en/assets/event003.png)
 
 
