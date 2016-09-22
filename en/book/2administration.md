@@ -7,10 +7,7 @@ As the first operation after setting up your preferences, you should create Cate
 ![](/en/assets/admin002.png)
 
 
-
 ![](/en/assets/admin003.png)
-
-
 
 
 ![](/en/assets/admin004.png)
