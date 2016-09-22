@@ -7,3 +7,5 @@
 3. Open your website administration page and go to 'modules'<br> <br> 
 
 4. Install the module by clicking the install link. A confirmation page should give you a link back to 'module administration page'
+
+After installation you can rename the module to something else, e.g. Events.
