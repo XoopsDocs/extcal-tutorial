@@ -2,7 +2,7 @@
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module extCal
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.8
   
       
 ![logoModule.png](assets/logoModule.png)
@@ -22,10 +22,14 @@
 ## Module Purpose 
 
  
-This module is for .....
+eXtCal is an event/calendar module developed exclusively for XOOPS, therefore it is perfectly integrated with it.
+
+It uses XOOPS permission and group management, thus allowing a great flexibility in use.
+
+
 
  
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the extCal Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
