@@ -36,12 +36,31 @@ As the first operation after setting up your preferences, you should create Cate
 ![](/en/assets/admin009.png)
 
 
-#### Adding Event
+#### Adding Permissions
 
 ![](/en/assets/admin010.png)
 
 
-![](/en/assets/admin011.png)
+![](/en/assets/admin010a.png)
+
+![](/en/assets/admin010b.png)
+
+
+![](/en/assets/admin010c.png)
+
+#### Adding Event
+
+![](/en/assets/event001.png)
+
+
+![](/en/assets/event002.png)
+
+
+![](/en/assets/event003.png)
+
+
+
+
 
 
 
