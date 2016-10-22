@@ -17,9 +17,7 @@ extCal module has 6 blocks available to use:
 
 ### MiniCal
 ![](../assets/blocks002.png)
-
 ![](../assets/blocks002b.png)
-
 
 ### Upcoming event
 ![](../assets/blocks003.png)
