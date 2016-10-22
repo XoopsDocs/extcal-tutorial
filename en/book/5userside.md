@@ -10,22 +10,22 @@
 ![](../assets/view002.png)
 
 
-#### Year
+#### Year (list view)
 
 ![](../assets/view003.png)
 
 
-#### Month
+#### Month (list view)
 
 ![](../assets/view004.png)
 
 
-#### Week
+#### Week (list view)
 
 ![](../assets/view005.png)
 
 
-#### Day
+#### Day (list view)
 
 ![](../assets/view006.png)
 
@@ -33,6 +33,7 @@
 #### Agenda week
 
 ![](../assets/view007.png)
+![](../assets/clone005b.png)
 
 
 #### Agenda day
@@ -46,24 +47,9 @@
 
 
 #### New event
+If you have the required permissions, you can add a new event:
+
 ![](../assets/view010a.png)
 
 ![](../assets/view010b.png)
-
-#### Cloning event
-
-![](../assets/clone001.png)
-
-![](../assets/clone002.png)
-
-![](../assets/clone003.png)
-
-![](../assets/clone004.png)
-
-![](../assets/clone005a.png)
-
-![](../assets/clone005b.png)
-
-
-
 
