@@ -1,6 +1,6 @@
 # 6.0 Blocks
 
-extCal module has 6 blocks available to use: 
+**extCal** module has 6 blocks available to use: 
 
 ![](../assets/blocks001.png)
 
