@@ -2,58 +2,53 @@
 
 As the first operation after setting up your preferences, you should create Categories for your events:
 
-![](/en/assets/admin001.png)
+![](../assets/admin001.png)
 
-![](/en/assets/admin002.png)
-
-
-![](/en/assets/admin003.png)
+![](../assets/admin002.png)
 
 
-![](/en/assets/admin004.png)
+![](../assets/admin003.png)
+
+
+![](../assets/admin004.png)
 
 
 #### Adding Category
 
 
-![](/en/assets/admin005.png)
+![](../assets/admin005.png)
 
 
-![](/en/assets/admin006.png)
+![](../assets/admin006.png)
 
 
 #### Adding Location
 
-![](/en/assets/admin007.png)
+![](../assets/admin007.png)
 
 
-![](/en/assets/admin008.png)
+![](../assets/admin008.png)
 
 
-![](/en/assets/admin009.png)
+![](../assets/admin009.png)
 
 
 #### Adding Permissions
 
-![](/en/assets/admin010.png)
+![](../assets/admin010.png)
+
+![](../assets/admin010a.png)
+
+![](../assets/admin010b.png)
 
 
-![](/en/assets/admin010a.png)
-
-![](/en/assets/admin010b.png)
-
-
-![](/en/assets/admin010c.png)
+![](../assets/admin010c.png)
 
 #### Adding Event
 
-![](/en/assets/event001.png)
-
-
-![](/en/assets/event002.png)
-
-
-![](/en/assets/event003.png)
+![](../assets/event001.png)
+![](../assets/event002.png)
+![](../assets/event003.png)
 
 
 
